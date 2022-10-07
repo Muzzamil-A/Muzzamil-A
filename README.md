@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Muzzamil-A
 - 👀 I’m interested in Data Science, Full Stack Web Development,Cyber Security, & AIML
 - 🌱 I’m currently learning Java Script
-- 💞️ I’m looking to collaborate for learning and Working of web development
+- 💞️ I’m looking to collaborate for learning and Working on web development
 - 📫 mail me @ sd.muzzamilali@gmail.com
 
 <!---
