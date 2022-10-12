@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Muzzamil-A
+- 👋 Hi, I’m @Muzzamil-Ali
 - 👀 I’m interested in Data Science, Full Stack Web Development,Cyber Security, & AIML
 - 🌱 I’m currently learning Java Script
 - 💞️ I’m looking to collaborate for learning and Working on web development
